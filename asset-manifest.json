@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sigplot-viewer-tool/static/css/main.2cce8147.chunk.css",
+    "main.js": "/sigplot-viewer-tool/static/js/main.92a3f3c2.chunk.js",
+    "main.js.map": "/sigplot-viewer-tool/static/js/main.92a3f3c2.chunk.js.map",
+    "runtime~main.js": "/sigplot-viewer-tool/static/js/runtime~main.70a3b79b.js",
+    "runtime~main.js.map": "/sigplot-viewer-tool/static/js/runtime~main.70a3b79b.js.map",
+    "static/js/2.b41502e9.chunk.js": "/sigplot-viewer-tool/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/sigplot-viewer-tool/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/sigplot-viewer-tool/index.html",
+    "precache-manifest.efbe995799b60135df00ee7e99e1bc21.js": "/sigplot-viewer-tool/precache-manifest.efbe995799b60135df00ee7e99e1bc21.js",
+    "service-worker.js": "/sigplot-viewer-tool/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/sigplot-viewer-tool/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/sigplot-viewer-tool/static/media/logo.5d5d9eef.svg"
+  }
+}
